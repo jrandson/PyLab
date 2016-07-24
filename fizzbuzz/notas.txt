@@ -3,4 +3,4 @@
 3.Escreva um teste que você ACHA que pode ser resolvido de forma simples, nada de testar o programa todo de uma vez.. 
 o ideal é que você tenha apenas um teste quebrando em cada “rodada”
 4.Teste com valores plausíveis e facilmente compreensíveis… testar soma (1, 2) == 3 é 
-muito melhor do que testar soma (12312512312, 31653341265312) = ????, entendeu onde quero chegar?
+muito melhor do que testar soma (12312512312, 31653341265312) = ????

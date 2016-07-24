@@ -10,30 +10,19 @@ assertFalse(a): check that the value of a is False
 assertTrue(a): check the value of a is True
 assertIsInstance(a, TYPE): check that a is of type "TYPE"
 assertRaises(ERROR, a, args): check that when a is called with args that it raises ERROR
+
+
+
 '''
 
-
 import unittest
-from fizzbuzz import FizzBuzz 
+from big_data import find_dor 
 
-class TestFizzBuzz(unittest.TestCase):
+class TestBing_data(unittest.TestCase):
 	
-	def test_numero_simples(self):
-		self.assertEqual(FizzBuzz(1),1)
-		self.assertEqual(FizzBuzz(2),2)
-
-
-	def test_fizz(self):
-		self.assertEqual(FizzBuzz(3),"fizz")
-		self.assertEqual(FizzBuzz(9),"fizz")
-
-	def test_buzz(self):
-		self.assertEqual(FizzBuzz(5),"buzz")
-		self.assertEqual(FizzBuzz(10),"buzz")
-
-	def test_fizz_buzz(self):
-		self.assertEqual(FizzBuzz(15),"fizzbuzz")
-		self.assertEqual(FizzBuzz(30),"fizzbuzz")
+	def test_find_dor(self):
+		self.assertEqual(find_dor(25),True)
+		self.assertEqual(find_dor(-25),True)
 
 
 if __name__ == '__main__':
