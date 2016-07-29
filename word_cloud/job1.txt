@@ -1,0 +1,40 @@
+Nós entendemos que o desenvolvimento de software é uma experiência libertadora, evolutiva e rápida – gerentes de projeto, desenvolvedores, testadores e analistas de negócio trabalhando colaborativamente com os clientes para entregar resultados visíveis e imediatos. 
+ 
+Buscamos tanto conhecimento e curiosidade intelectual para resolver problemas. A ideia de trabalhar lado a lado com pessoas que escreveram livros sobre os assuntos que lhe interessam vai te atrair ​ e​ você compartilhará nosso interesse por Padrões de Projeto, refatoração, Integração Contínua, TDD (Test Driven Development) e Ágil. 
+ 
+Nós queremos pessoas que consigam traduzir sua paixão por “Great Software” em valores reais para nossos clientes. Se você entende isso, você entenderá nossa forma de trabalho. 
+
+Mas não é somente desenvolvimento. Nós continuamos a inovar através de processos de entrega. Desde um melhor gerenciamento de carga de trabalho com Kanban até Integração Continua e DevOps. Você talvez já tenha lido algum de nossos livros sobre esses assuntos, ou visto nosso Radar de Tecnologia. 
+ 
+Nosso objetivo em Belo Horizonte é contratar mais pessoas inovadoras que irão realmente nos ajudar a revolucionar o desenvolvimento de software no Brasil.
+
+Aqui você terá a oportunidade de:
+Fazer parte de uma consultoria global de tecnologia que quer mudar o mundo;
+Apresentar, utilizar e melhorar práticas de desenvolvimento ágil, incluindo Integração Contínua (Go, Jenkins, etc) e Desenvolvimento Orientado a Testes (TDD - Test Driven Development);
+Trabalhar em aplicações de negócios em multi-camadas e com design personalizado, que utilizam as mais recentes tecnologias para a construção de sistemas críticos e escaláveis;
+Contribuir e colaborar com a equipe e clientes durante todo o processo de desenvolvimento de software;
+Atuar como coach e disseminar o conhecimento das melhores práticas no desenvolvimento de software dentro e fora da ThoughtWorks;
+Ser parte de um ambiente aberto e não hierárquico onde se espera que todos colaborem dentro do projeto e nas direções da organização.
+Esperamos que você:
+Goste de programar. No seu tempo livre você se diverte programando uma aplicação para web 2.0 ou um framework para facilitar suas atividades diárias;
+Tenha experiência com desenvolvimento em Java, .NET, Python e/ou Ruby. Você poderá nos mostrar um pouco do seu talento durante nosso processo de seleção;
+Tenha experiência com análise, design, codificação e implementação de aplicações OO coorporativas personalizadas;
+Capacidade de trabalhar em equipe, em um ambiente colaborativo;
+Tenha experiência de trabalho com métodos ágeis - incluindo XP, Scrum e desenvolvimento iterativo - seria fantástico. Se você ainda não teve a oportunidade de trabalhar em um ambiente ágil, você já leu tudo sobre esta metodologia;
+Capacidade de comunicação, com habilidade de trabalhar e construir um relacionamento com o cliente dentro de um ambiente de consultoria;
+Características que serão um diferencial:
+Bons conhecimentos de padrões de projeto, refatoração e testes unitários;
+Experiência de trabalho com métodos ágeis, XP, Scrum e / ou Kanban;
+Experiência na escolha e aplicação de boas práticas de software como Test Driven Development (TDD), integração e entrega continua;
+Participação ativa dentro da comunidade de TI como um palestrante, autor ou colaborador.
+A ThoughtWorks é uma comunidade de pessoas apaixonadas com o propósito de revolucionar o design e a criação de software, enquanto defende uma mudança social positiva. Trabalhamos com pessoas e organizações que possuem missões ambiciosas - estejam eles nos setores privado, público ou social e acreditamos que as pessoas são a chave do nosso sucesso.
+
+Acreditamos em conhecer as pessoas sob vários olhares, então além de anexar seu currículos, gostaríamos de te conhecer um pouco mais através de algumas perguntas que você encontrará ao clicar em "Apply for this job".
+
+Parece interessante? Então vamos conversar!
+
+A ThoughtWorks tem orgulho de ser uma empresa que preza pela igualdade de oportunidades.
+​ ​
+Candidatos são considerados para todas as vagas, sem distinção de raça, cor, religião, gênero e identidade de gênero, nacionalidade, deficiência, orientação sexual, ascendência ou idade. 
+ 
+Trabalhamos ativamente na inclusão de pessoas com deficiência em nossos escritórios, construindo soluções adaptativas junto a uma equipe treinada e a nossa consultora em inclusão.

@@ -38,10 +38,6 @@ class LinkedList():
 
 			return answer
 
-	def show_linked_list(self):
-		node = self._head._element
-		while not node == self._tail._element:
-			
 
 class Node():
 
