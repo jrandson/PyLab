@@ -8,9 +8,9 @@ def diskUsage(path):
 		for item in listDir:
 			childPath = p.join(path,item)
 			print childPath
-			size += diskUsage(childPath)
-	
+			size += diskUsage(childPath)	
 	return size
+
 
 path = raw_input("Inform um diretorio: ");
 print diskUsage(path)
