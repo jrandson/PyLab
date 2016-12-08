@@ -9,6 +9,17 @@ class Boxes:
     # every box must be completely full
     @staticmethod
     def minimalNumberOfBoxes(products, availableLargeBoxes, availableSmallBoxes):
+        qtd_large_boxes = 0
+        qtd_small_boxes = 0
+
+        qtd_large_boxes = products / 5
+        qtd_small_boxes = products - qtd_large_boxes*5
+
+        return qtd_large_boxes+qtd_small_boxes
+        
+
+
+    def minimalNumberOfBoxes2(products, availableLargeBoxes, availableSmallBoxes):
 
     	qtd_large_boxes = 0
     	qtd_small_boxes = 0
@@ -55,8 +66,8 @@ class TestBoxes(unittest.TestCase):
 		self.assertEqual(Boxes.minimalNumberOfBoxes(12,0,12),12)
 
 	def test_no_few_small_produtcs(self):
-		self.assertEqual(Boxes.minimalNumberOfBoxes(4,1,3),-1)
-		self.assertEqual(Boxes.minimalNumberOfBoxes(4,1,4),4)
+		self.assertEqual(Boxes.minimalNumberOfBoxes(16,5,1),-1)
+		self.assertEqual(Boxes.minimalNumberOfBoxes(16,1,4),4)
 		self.assertEqual(Boxes.minimalNumberOfBoxes(5,1,3),1)
 		self.assertEqual(Boxes.minimalNumberOfBoxes(5,0,6),5)
 

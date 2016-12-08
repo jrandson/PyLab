@@ -14,10 +14,10 @@ assertRaises(ERROR, a, args): check that when a is called with args that it rais
 
 
 import unittest
-from fizzbuzz import FizzBuzz 
+from fizzbuzz import FizzBuzz
 
 class TestFizzBuzz(unittest.TestCase):
-	
+
 	def test_numero_simples(self):
 		self.assertEqual(FizzBuzz(1),1)
 		self.assertEqual(FizzBuzz(2),2)
